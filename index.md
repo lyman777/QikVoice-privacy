@@ -57,4 +57,4 @@ Quick Voice 主要面向成年人使用，不针对 13 岁以下儿童设计或�
 如您对本隐私政策或 Quick Voice 有任何疑问、建议或投诉，请联系我们：
 
 开发者：Solo Lab Studio
-联系邮箱：[在此填写你的联系邮箱，例如：support.sololabstudio@gmail.com]
+联系邮箱：lyman777@gmail.com
