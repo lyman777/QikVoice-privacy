@@ -1,6 +1,9 @@
 QikVoice 隐私政策 / Privacy Policy
+
 最近更新日期：2026 年 7 月 1 日
+
 本隐私政策适用于应用程序 Quick Voice（QikVoice）（由 Solo Lab Studio 独立开发和维护）。我们非常重视您的隐私，并尽可能减少对您个人数据的收集和使用。
+
 一、我们收集哪些数据
 1. 录音内容
 您在 Quick Voice 中创建的所有录音文件，仅保存在您的设备本地存储。我们不会将录音上传到任何服务器，也不会通过网络传输您的录音内容。除非您主动使用系统分享功能（例如通过微信、邮件、云盘等分享录音），否则录音不会离开您的设备。
@@ -49,7 +52,9 @@ Quick Voice 主要面向 16 岁及以上用户。我们不会故意收集 13 岁
 联系邮箱：sololab.studio.official@gmail.com
 
 Last Updated: July 1, 2026
+
 This Privacy Policy applies to Quick Voice (QikVoice), developed and maintained by Solo Lab Studio. We value your privacy and minimize data collection.
+
 I. Information We Collect
 1. Recordings
 All recordings you create in Quick Voice are stored locally on your device. We do not upload recordings to any server.
